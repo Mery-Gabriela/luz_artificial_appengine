@@ -1,0 +1,7 @@
+runtime: nodejs18
+env: standard
+
+env_variables:
+  GOOGLE_APPLICATION_CREDENTIALS: ./luz-artificial-0f0b0a1eb8d2.json
+  BUCKET_NAME: luz-artificial.appspot.com
+  ENDPOINT_URL: https://luz-artificial.ue.r.appspot.com
